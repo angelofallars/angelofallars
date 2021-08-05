@@ -3,7 +3,7 @@ I'm Angelo Fallaria. I am a Python developer and math enthusiast studying Machin
 
 Senior High STEM student at **Mapúa University**
 
-### 📉 Data Science Tools
+### 📉 ML Tools
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 <br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
