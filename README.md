@@ -24,3 +24,6 @@ Senior High STEM student at **Mapúa University**
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 <br>
 ![discord.py](https://img.shields.io/badge/discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+### 💻 My OS
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
