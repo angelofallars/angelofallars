@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm Angelo Fallaria. I am a Python developer and math enthusiast studying Machine Learning.
+I'm Angelo Fallaria. I am an 18 year old Python developer and math enthusiast. I am currently studying Machine Learning.
 
 Senior High STEM student at **Mapúa University**
 
