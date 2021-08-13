@@ -24,6 +24,8 @@ Senior High STEM student at **Mapúa University**
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 <br>
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
+<br>
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ### 💻 My OS
