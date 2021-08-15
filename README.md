@@ -21,6 +21,8 @@ Senior High STEM student at **Mapúa University**
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
+![Vim](https://img.shields.io/badge/Vim-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
+<br>
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 <br>
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
