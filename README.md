@@ -19,6 +19,8 @@ Senior High STEM student at **Mapúa University**
 ### 🔧 Other Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <br>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 ![Vim](https://img.shields.io/badge/Vim-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
