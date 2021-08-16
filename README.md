@@ -19,15 +19,17 @@ Senior High STEM student at **Mapúa University**
 ### 🔧 Other Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <br>
+<<<<<<< HEAD
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+=======
+![MATLAB](https://img.shields.io/badge/MATLAB-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
+>>>>>>> b175ee0c58dc9821e74b2ca67d1823c25861b74a
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
-![Vim](https://img.shields.io/badge/Vim-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 <br>
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
-<br>
-![MATLAB](https://img.shields.io/badge/MATLAB-%23323330.svg?style=for-the-badge&logo=none&logoColor=white)
 <br>
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
