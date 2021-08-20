@@ -1,7 +1,7 @@
 ### Hey there! 👋
 I'm Angelo Fallaria. I am an 18 year old Python developer, Math lover, and a Linux enthusiast. I am currently studying Machine Learning.
 
-Senior High STEM student at **Mapúa University**
+Student at **Mapúa University**
 
 ### 📉 ML Tools
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
