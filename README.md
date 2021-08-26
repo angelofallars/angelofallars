@@ -1,6 +1,6 @@
 ### Hey there! 👋
-I'm Angelo Fallaria. I am an 18 year old Python developer, Math lover, and an Arch Linux user. I am currently studying Machine Learning.\
-\
+I'm Angelo Fallaria. I am an 18 year old Python software developer and Arch Linux enthusiast.
+
 Student at **Mapúa University**
 
 
