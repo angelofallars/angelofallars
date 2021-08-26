@@ -14,10 +14,10 @@ Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the
 ### 🔧 Tools
 ---
 
-Programming | ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white) ![Jupyter](https://img.shields.io/badge/-jupyter-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=%23f37626) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Program | ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white) ![Jupyter](https://img.shields.io/badge/-jupyter-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=%23f37626) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 --- | ---
-**Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23187bb4) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23e27d08.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-**Cloud Platform** | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+**DS/ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23187bb4) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23e27d08.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Cloud** | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ### 💻 Operating System
@@ -25,4 +25,4 @@ Programming | ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-th
 
 Linux | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 --- | ---
-**Scripting** | ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Shell** | ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
