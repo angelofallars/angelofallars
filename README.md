@@ -4,7 +4,7 @@ I'm Angelo Fallaria. I am an 18 year old Python developer, Math lover, and an Ar
 Student at **Mapúa University**
 
 
-### 📊 Programming Languages
+### 📊 Languages
 ---
 
 Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,7 +19,7 @@ Program | ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-
 **DS/ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)<br> ![matplotlib](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23187bb4) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23e27d08.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-### 💻 Operating System
+### 🐧 Operating System
 ---
 
 Linux | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
