@@ -24,4 +24,4 @@ Linux | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-t
 :--- | :---
 **Shell** | ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-https://github-readme-stats.vercel.app/api?username=angelofallars
+![Stats](https://github-readme-stats.vercel.app/api?username=angelofallars)
