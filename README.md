@@ -3,6 +3,7 @@ I'm Angelo Fallaria. I am an 18 year old Python software developer and Arch Linu
 
 Student at **Mapúa University**
 
+![](https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square)
 
 ### 📊 Languages
 ---
