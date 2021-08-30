@@ -1,4 +1,6 @@
+
 ### Hey there! 👋
+
 I'm Angelo Fallaria. I am an 18 year old Python software developer and Arch Linux enthusiast.
 
 Student at **Mapúa University**
@@ -6,7 +8,7 @@ Student at **Mapúa University**
 ### 📊 Languages
 
 ---
-Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 :--- | :---
 | **Backend** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
