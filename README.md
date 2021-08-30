@@ -5,6 +5,8 @@ I'm Angelo Fallaria. I am an 18 year old Python software developer and Arch Linu
 
 Student at **Mapúa University**
 
+![Counter](https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square)
+
 ### 📊 Languages
 
 ---
@@ -15,7 +17,7 @@ Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the
 ### 🔧 Tools
 
 ---
-Program | ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Jupyter](https://img.shields.io/badge/-jupyter_notebook-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=%23f37626)<br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+Program | ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Jupyter](https://img.shields.io/badge/-jupyter_notebook-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=%23f37626)<br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 :--- | :---
 **DS/ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)<br> ![matplotlib](https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23187bb4) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23e27d08.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -25,3 +27,6 @@ Program | ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-
 Linux | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 :--- | :---
 **Shell** | ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![angelofallars's Stats](https://github-readme-stats.vercel.app/api?username=angelofallars&theme=react&show_icons=true&hide_border=true&count_private=true)\
+![angelofallars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&theme=react&show_icons=true&hide_border=true&layout=compact)
