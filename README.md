@@ -10,7 +10,7 @@ Student at **Mapúa University**
 ### 📊 Languages
 
 ---
-Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 :--- | :---
 | **Learning** |  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
 
@@ -26,8 +26,7 @@ Editors | ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the
 
 ---
 Linux | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-:--- | :---
-**Shell** | ![Bash Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+:--- | :--- 
 
 ![angelofallars's Stats](https://github-readme-stats.vercel.app/api?username=angelofallars&theme=react&show_icons=true&hide_border=true&count_private=true)\
 ![angelofallars's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&theme=react&show_icons=true&hide_border=true&layout=compact)
