@@ -4,7 +4,7 @@
 I'm Angelo Fallaria. I am an 18 year old Python software engineer and open-source developer from the Philippines. 
 
 - 🖥️ Software contributor at [Wareneutron Developers](https://github.com/wareneutron)
-- 📟 Maintainer and developer at [Algo Drip](https://github.com/algodrip)
+- 📟 Maintainer and developer at [Algo Drip](http://algodrip.nafu.me/)
 - 📚 Student at Mapúa University
 
 ![Counter](https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square)
