@@ -1,5 +1,6 @@
+# Hey there! 👋
 
-### Hey there! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code+medium&color=4384F0&size=22&lines=Student+and+open-source+developer;Python%2C+Neovim+and+Arch+Linux;Nice+to+meet+you...!)](https://git.io/typing-svg)
 
 I'm Angelo Fallaria. I am an 18 year old Python software engineer and open-source developer from the Philippines. 
 
