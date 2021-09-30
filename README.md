@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code+medium&color=4384F0&size=22&lines=Student+and+open-source+developer;Python%2C+Neovim+and+Arch+Linux;Nice+to+meet+you...!)](https://git.io/typing-svg)
 
-I'm Angelo Fallaria. I am an 18 year old Python software engineer and open-source developer from the Philippines. 
-
-- 📟 Co-founder and developer of [Algo Drip](http://algodrip.nafu.me/)
-- 📚 Student at Mapúa University
+I'm Angelo Fallaria. I am an 18 year old Python programmer, Linux enthusiast and an open-source developer from the Philippines. 
 
 ![Counter](https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square)
 
