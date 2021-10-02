@@ -24,7 +24,7 @@ Editors | ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the
 ### 🤖 Operating System
 
 ---
-Linux | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+Linux | ![Void Linux](https://img.shields.io/badge/Void_Linux-458161?style=for-the-badge&logo=none&logoColor=white)
 :--- | :--- 
 
 ![angelofallars's Stats](https://github-readme-stats.vercel.app/api?username=angelofallars&theme=react&show_icons=true&hide_border=true&count_private=true)\
