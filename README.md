@@ -18,11 +18,5 @@ Editors | ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the
 :--- | :---
 **Tech** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🤖 Operating System
-
----
-Linux | ![Void Linux](https://img.shields.io/badge/Void_Linux-458161?style=for-the-badge&logo=none&logoColor=white)
-:--- | :---
-
 <img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" width=500px>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" width=500px>
