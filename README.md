@@ -1,15 +1,15 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%231479BD&size=22&center=true&vCenter=true&lines=Linux%2C+Arch+Linux%2C+Docker;Python%2C+Flask%2C+Matplotlib)](https://git.io/typing-svg)
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%231479BD&size=22&center=true&vCenter=true&lines=Linux%2C+Arch+Linux%2C+Docker;Python%2C+Flask%2C+Matplotlib" alt="Linux, Arch Linux, Docker"></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=dark&show_icons=true&hide_border=false&count_private=true" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub readme stats" width=450px align=right>
 
 I am an 18 year old open-source developer and Linux enthusiast from the Philippines.
 
 * Software developer for [Axyl](https://axyl-os.github.io/), an Arch Linux-based distribution. I help design the website and build automated testing pipelines with GitHub Actions.
 * Front-end developer for [Wareneutron Developers](https://wareneutron.com). I've built [several](https://buymeacoffee.js.org/) [static](https://wifipassview.warengonzaga.com/) [pages](https://gathertown.js.org/) [for](https://plaguesec.com/) the organization's projects.
 
-![Counter](https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square" align=right>
 
-### 📊 Technologies
+### 🔨 Technologies
 
 ---
 Main | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
