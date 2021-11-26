@@ -5,7 +5,7 @@
 I am an 18 year old open-source developer and Linux enthusiast from the Philippines.
 
 * Software developer for [Axyl](https://axyl-os.github.io/), an Arch Linux-based distribution.
-* Open-source web developer for [Wareneutron Developers](https://wareneutron.com).
+* Elite contributor for [Wareneutron Developers](https://wareneutron.com).
 
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square" alt="GitHub page views">
 
