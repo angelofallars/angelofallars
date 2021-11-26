@@ -27,4 +27,6 @@ Coding | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-bad
 **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github&nbsp;actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%231B98BF.svg?style=for-the-badge&logo=docker&logoColor=white)
 **Hosting** | ![Fosshost](https://img.shields.io/badge/fosshost-%23f0f0f0.svg?style=for-the-badge&logo=vodafone&logoColor=FF0000) ![Rocky Linux](https://img.shields.io/badge/Rocky&nbsp;Linux-%2310B981.svg?style=for-the-badge&logo=rocky-linux&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axyl-os&repo=axyl-iso)](https://github.com/axyl-os/axyl-iso)
+<br>
+
+<a href="https://github.com/axyl-os/axyl-iso"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axyl-os&repo=axyl-iso" alt="Axyl" height=140px></a>
