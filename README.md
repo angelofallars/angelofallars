@@ -17,7 +17,7 @@ Languages | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=fo
 **Frameworks** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 
 ### 🔧 Tools
 
