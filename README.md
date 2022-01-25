@@ -7,11 +7,17 @@ I am an 18 year old open-source developer and Linux enthusiast from the Philippi
 * Software developer for [Axyl](https://axylos.org/), an Arch Linux-based distribution.
 * Elite contributor at [Wareneutron Developers](https://wareneutron.com).
 
-<img src="https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square" alt="GitHub page views">
+#### About Me
+
+**🖥 Favorite language:** Rust (memory safety go brrr)
+
+**🖍 Favorite color scheme:** Gruvbox Material (but Catppuccin is great too!)
 
 **🍙 Favorite anime shows:** Demon Slayer, JoJo's Bizarre Adventure, Attack on Titan, Golden Kamuy
 
-**🖥 Favorite language:** Rust (memory safety go brrr)
+
+<img src="https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square" alt="GitHub page views">
+
 
 ### 🔨 Technologies
 
