@@ -13,6 +13,8 @@ I am an 18 year old open-source developer and Linux enthusiast from the Philippi
 
 **🖍 Favorite color scheme:** Gruvbox Material (but Catppuccin is great too!)
 
+**⌨️ Keyboard:** Royal Kludge RK71 - Brown Switch
+
 **🍙 Favorite anime shows:** Demon Slayer, JoJo's Bizarre Adventure, Attack on Titan, Golden Kamuy
 
 
