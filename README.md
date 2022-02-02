@@ -1,24 +1,24 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%231479BD&size=22&center=true&vCenter=true&lines=Python%2C+Rust%2C+Typescript;Vim%2C+Linux%2C+Flask" alt="Linux, Arch Linux, Docker"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%23a9b665&size=22&center=true&vCenter=true&lines=Neovim%2C+Gruvbox%2C+Rust;Linux%2C+Python%2C+tmux" alt="Neovim, Gruvbox, Rust"></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&count_private=true" alt="GitHub readme stats" width=450px align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>
+
+## 🍀 Hey there!
 
 I am an 18 year old open-source developer and Linux enthusiast from the Philippines.
 
 * Software developer for [Axyl](https://axylos.org/), an Arch Linux-based distribution.
 * Elite contributor at [Wareneutron Developers](https://wareneutron.com).
+* Frequent anime watcher.
 
-#### About Me
+### About Me
 
-**🖥 Favorite language:** Rust (memory safety go brrr)
-
-**🖍 Favorite color scheme:** Gruvbox Material (but Catppuccin is great too!)
-
-**⌨️ Keyboard:** Royal Kludge RK71 - Brown Switch
-
-**🍙 Favorite anime shows:** Demon Slayer, JoJo's Bizarre Adventure, Attack on Titan, Golden Kamuy
+- 🖥 Favorite language: Rust (memory safety go brrr)
+- 🎨 Favorite color scheme: Gruvbox Material
+- ⌨️ Keyboard: Royal Kludge RK71 - Brown Switch
+- 🀄 Favorite anime: Demon Slayer, JoJo's Bizarre Adventure, Attack on Titan, Golden Kamuy
 
 
-<img src="https://komarev.com/ghpvc/?username=angelofallars&color=156CAC&style=flat-square" alt="GitHub page views">
+<img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
 
 
 ### 🔨 Technologies
@@ -28,20 +28,18 @@ Languages | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=fo
 :--- | :---
 **Frameworks** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Coding** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
-
-### 🔧 Tools
-
----
-Coding | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-:--- | :---
-**CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github&nbsp;actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%231B98BF.svg?style=for-the-badge&logo=docker&logoColor=white)
-**Hosting** | ![Fosshost](https://img.shields.io/badge/fosshost-%23f0f0f0.svg?style=for-the-badge&logo=vodafone&logoColor=FF0000) ![Rocky Linux](https://img.shields.io/badge/Rocky&nbsp;Linux-%2310B981.svg?style=for-the-badge&logo=rocky-linux&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px>
 
 <br>
 
-<a href="https://github.com/axyl-os/axyl-iso"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axyl-os&repo=axyl-iso" alt="Axyl" height=140px></a>
+<a href="https://github.com/axyl-os/axyl-iso">
+  <img src="https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-logo.svg" alt="Axyl Logo" height=140px>
+</a>
+<a href="https://github.com/axyl-os/axyl-iso">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axyl-os&repo=axyl-iso" alt="Axyl" height=140px>
+</a>
 
 ## 🎁 Support
 
