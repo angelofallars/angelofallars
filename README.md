@@ -15,6 +15,7 @@ I am an 18 year old open-source developer and Linux enthusiast from the Philippi
 - 🖥 Favorite language: Rust (memory safety go brrr)
 - 🎨 Favorite color scheme: Gruvbox Material
 - ⌨️ Keyboard: Royal Kludge RK71 - Brown Switch
+- 🐧 Current Linux Distro: Artix Linux (runit version)
 - 🀄 Favorite anime: Demon Slayer, JoJo's Bizarre Adventure, Attack on Titan, Golden Kamuy
 
 
