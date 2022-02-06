@@ -6,6 +6,7 @@
 
 I am an 18 year old open-source developer and Linux enthusiast from the Philippines.
 
+* Maintainer at [Waycrate](https://github.com/waycrate), an organization creating suckless tools in Rust.
 * Software developer for [Axyl](https://axylos.org/), an Arch Linux-based distribution.
 * Elite contributor at [Wareneutron Developers](https://wareneutron.com).
 * Frequent anime watcher.
