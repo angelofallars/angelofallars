@@ -4,7 +4,7 @@
 
 ## 🍀 Hey there!
 
-I am an 18 year old open-source developer and Linux enthusiast from the Philippines.
+I am an 19 year old open-source developer and Linux enthusiast from the Philippines.
 
 * Core Maintainer: [Axyl](https://axylos.org/), an Arch Linux-based distribution with over 250+ stars and over 9,000+ downloads.
 * Open-Source Dev: [Waycrate](https://github.com/waycrate), an organization creating suckless tools in Rust, mainly on the flagship tool [swhkd](https://github.com/waycrate/swhkd) with over 200+ stars.
