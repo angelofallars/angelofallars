@@ -4,19 +4,16 @@
 
 ## 🍀 Hey there!
 
-I am an 19 year old open-source developer and Linux enthusiast from the Philippines.
+I am an 19 year old software developer from the Philippines.
 
 * Core Maintainer: [Axyl](https://axylos.org/), an Arch Linux-based distribution with over 300 stars and over 9,000 downloads.
 * Open-Source Dev: [Waycrate](https://github.com/waycrate), an organization creating suckless tools in Rust, mainly on the flagship tool [swhkd](https://github.com/waycrate/swhkd) with over 200 stars.
-* Linux gamer.
 
 ### About Me
 
 - 🖥 Favorite language: Rust
-- 🎨 Favorite color scheme: Gruvbox Material
-- ⌨️ Keyboard: Royal Kludge RK71 - Brown Switch
+- ⌨ Code Editor: Neovim
 - 🐧 Current Linux Distro: Artix Linux (runit)
-- 🀄 Favorite anime: Demon Slayer, Tokyo Revengers, Attack on Titan
 
 
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
