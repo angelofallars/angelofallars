@@ -2,42 +2,30 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=angelofallars&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" alt="GitHub readme stats" width=450px align=right>
 
-## 🍀 Hey there!
+### 🍀 Angelo Fallaria
 
 I am a:
 
-* Core Maintainer: [Axyl](https://axylos.org/), an Arch Linux-based distribution with over 300 stars and over 9,000 downloads.
-* Open-Source Dev: [Waycrate](https://github.com/waycrate), an organization creating suckless tools in Rust, mainly on the flagship tool [swhkd](https://github.com/waycrate/swhkd) with over 200 stars.
+* Core Maintainer: [Axyl](https://axylos.org/), an Arch Linux-based distribution with over 10,000 downloads.
+* Open-Source Dev: [Waycrate](https://github.com/waycrate), an organization creating Unix-based tools in Rust.
+* Working at: [SofSafe](https://www.sofsafe.cloud) 📋
 
-### About Me
+#### 👉 About Me
 
+- ⌨ Favorite editor: Neovim
 - 🖥 Favorite language: Rust
-- ⌨ Code Editor: Neovim
 - 🐧 Current Linux Distro: Artix Linux (runit)
-
 
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
 
+#### 📎 Projects
 
-### 🔨 Technologies
+- 🌲 I'm the author of [treefetch](https://github.com/angelofallars/treefetch).
+- A core contributor to [Waycrate](https://waycrate.github.io). I chose the name Waycrate and designed its logo.
+  - Wrote 20+ unit tests for the config parser of [swhkd](https://github.com/waycrate/swhkd).
+- Wrote a [Discord bot](https://github.com/angelofallars/axyl-stats) for the Axyl Discord server.
 
----
-Languages | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)<br>![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-:--- | :---
-**Code** | ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofallars&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px>
-
-<br>
-
-<a href="https://github.com/axyl-os/axyl-iso">
-  <img src="https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-logo.svg" alt="Axyl Logo" height=140px>
-</a>
-<a href="https://github.com/axyl-os/axyl-iso">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axyl-os&repo=axyl-iso" alt="Axyl" height=140px>
-</a>
-
-## 🎁 Support
+#### 🎁 Support
 
 If you like what I do, please consider **[buying me a coffee](https://www.buymeacoffee.com/angelofallaria)**!
 
