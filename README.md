@@ -9,7 +9,7 @@
 I am a:
 
 * 📋 Software Engineer @ [SofSafe](https://www.sofsafe.cloud)
-* 🖋️ Technical Writer @ [OSSPH](https://ossph.org/)
+* 🖋️ Technical Writer @ [Open Source Software PH](https://ossph.org/)
 * 📦 Core Maintainer @ [Waycrate](https://github.com/waycrate)
 
 #### 👉 About Me
