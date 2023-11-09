@@ -3,17 +3,19 @@
 I am a:
 
 * 💿 Core Maintainer @ [Silver Programming Language](https://github.com/silverlang)
-* 🖋️ Technical Writer @ [Open Source Software PH](https://ossph.org/)
 * 📋 Working @ [SofSafe](https://www.sofsafe.cloud)
 
 
 #### About Me
 
-I like static typing and type systems. For that reason, Rust is my favorite language due to its comprehensive and expressive type system.
+I'm just some guy who programs on Linux using Neovim like a nerd. I write open-source software.
 
-My current fascination is compilers.
+My current fascination is compilers and interpreters. Everything we do with computers - programs, apps, operating systems, games are built with these two - why wouldn't I be fascinated with them? 
 
-- ⌨ Favorite editor: Neovim
+I like modern systems programming languages: [Rust](https://www.rust-lang.org/), [Go](https://go.dev/), and (learning) [Zig](https://ziglang.org/). I'm fascinated by how they balance performance with developer experience, and their unique ways of handling errors as values. 
+
+
+- 🖊️ Favorite editor: [Neovim](https://neovim.io/)
 - 🎨 Favorite color scheme: [Catppuccin](https://github.com/catppuccin)
 
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
