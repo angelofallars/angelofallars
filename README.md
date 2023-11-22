@@ -10,9 +10,9 @@ I am a:
 
 I'm just some guy who programs on Linux like a nerd (using Neovim btw). I write open-source software.
 
-My current fascination is compilers and interpreters. Everything we do with computers - programs, apps, operating systems, games are built with these two - why wouldn't I be fascinated with them? 
+I've taken a fascination with [HTMX](https://htmx.org). I'm currently writing a [library in Go](https://github.com/angelofallars/htmx-go) to make working with HTMX in Go even more enjoyable.
 
-I like modern systems programming languages: [Rust](https://www.rust-lang.org/), [Go](https://go.dev/), and (learning) [Zig](https://ziglang.org/). I'm fascinated by how they balance performance with developer experience, and their unique ways of handling errors as values. 
+I like modern systems programming languages: [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), and (learning) [Zig](https://ziglang.org/). I'm fascinated by how they balance performance with developer experience, and their unique ways of handling errors as values. 
 
 
 - 🖊️ Favorite editor: [Neovim](https://neovim.io/) (btw)
