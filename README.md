@@ -10,9 +10,11 @@ I am a:
 
 I'm just some guy who programs on Linux like a nerd (using Neovim btw). I write open-source software.
 
-I've taken a fascination with [HTMX](https://htmx.org). I'm currently writing a [library in Go](https://github.com/angelofallars/htmx-go) to make working with HTMX in Go even more enjoyable.
+I'm the creator and maintainer of [htmx-go](https://github.com/angelofallars/htmx-go).
 
-I like modern systems programming languages: [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), and (learning) [Zig](https://ziglang.org/). I'm fascinated by how they balance performance with developer experience, and their unique ways of handling errors as values. 
+Sometimes I learn and work on compilers. I'm working on a [new programming language](https://github.com/silverlang) with the initial compiler in Rust. 
+
+I like modern systems programming languages: [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), and (learning) [Zig](https://ziglang.org/).
 
 
 - 🖊️ Favorite editor: [Neovim](https://neovim.io/) (btw)
