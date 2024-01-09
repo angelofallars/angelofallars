@@ -1,24 +1,23 @@
-### Angelo Fallaria 🍀
+### 🍀 Angelo Fallaria
 
 I am a:
 
-* 💿 Core Maintainer @ [Silver Programming Language](https://github.com/silverlang)
-* 📋 Working @ [SofSafe](https://www.sofsafe.cloud)
+* 🟨 Core Maintainer @ [Waycrate](https://github.com/silverlang)
 
+#### 💼 Open to work
 
-#### About Me
+Need someone who will write idiomatic well-documented Go or Rust for you? I'm available for hiring remotely.
+I can leverage my 1.5+ years of professional experience to build solid software solutions in Go/Rust. I can do web development with HTMX as well.
 
-I'm just some guy who programs on Linux like a nerd (using Neovim btw). I write open-source software.
+If you're interested, please contact me at [ba.fallaria@gmail.com](mailto:ba.fallaria@gmail.com).
 
-I'm the creator and maintainer of [htmx-go](https://github.com/angelofallars/htmx-go).
+#### 👋 About me
 
-Sometimes I learn and work on compilers. I'm working on a [new programming language](https://github.com/silverlang) with the initial compiler in Rust. 
+Hi! I'm Angelo, a 20-year-old software engineer and open-source developer. I code on Linux (using Neovim btw).
 
-I like modern systems programming languages: [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), and (learning) [Zig](https://ziglang.org/).
+I'm passionate about Go, Rust, and HTMX. I'm the creator of the [htmx-go](https://github.com/angelofallars/htmx-go) library with 400+ stars.
 
-
-- 🖊️ Favorite editor: [Neovim](https://neovim.io/) (btw)
-- 🎨 Favorite color scheme: [Catppuccin](https://github.com/catppuccin)
+I'm interested in compilers and programming language design. Recently, I've been working on an embeddable scripting language named [litok](https://git.sr.ht/~kolunmi/litok/tree/rust-version/item/README.md) implemented in Rust. 
 
 ![](./dancing-gopher.gif)
 
