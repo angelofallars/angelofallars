@@ -2,7 +2,8 @@
 
 I am a:
 
-* 📋 Software Engineer @ [SofSafe](https://sofsafe.cloud)
+* 📋 Software Engineer @ [SofSafe](https://www.sofsafe.cloud)
+  * Working for almost two years at my first job!
 * 🟨 Core Maintainer @ [Waycrate](https://waycrate.github.io)
   * Upcoming [Google Summer of Code 2024 mentor](https://summerofcode.withgoogle.com/programs/2024/organizations/waycrate)!
 * 💙 Former Maintainer @ [Axyl](https://axyl.org/)
