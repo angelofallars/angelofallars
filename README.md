@@ -3,7 +3,9 @@
 I am a:
 
 * 📋 Software Engineer @ [SofSafe](https://sofsafe.cloud)
-* 🟨 Core Maintainer @ [Waycrate](https://github.com/silverlang)
+* 🟨 Core Maintainer @ [Waycrate](https://waycrate.github.io)
+  * Upcoming [Google Summer of Code 2024 mentor](https://summerofcode.withgoogle.com/programs/2024/organizations/waycrate)!
+* 💙 Former Maintainer @ [Axyl](https://axyl.org/)
 
 #### 👋 About me
 
