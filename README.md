@@ -2,6 +2,7 @@
 
 I am a:
 
+* 📋 Software Engineer @ [SofSafe](https://sofsafe.cloud)
 * 🟨 Core Maintainer @ [Waycrate](https://github.com/silverlang)
 
 #### 👋 About me
