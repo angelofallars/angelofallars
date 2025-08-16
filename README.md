@@ -15,4 +15,8 @@ I'm interested in compilers and programming language design. I've worked on an e
 
 ![](./dancing-gopher.gif)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/772ab8ba-bb97-4350-a5a8-182d9443e617/thumbnail" width=450px>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
