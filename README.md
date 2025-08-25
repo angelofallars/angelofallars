@@ -3,15 +3,23 @@
 I am a:
 
 * 🧪 Maintainer @ [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines)
+  * Notable contributions: [Plasmaman species](https://github.com/Simple-Station/Einstein-Engines/pull/1291)
 * 📝 Technical Writer @ [OSSPH](https://ossph.org/)
+
+#### 💼 Open to work
+
+Need someone who will write idiomatic well-documented code for you? I'm available for hiring remotely.
+I can leverage my 2+ years of professional experience to build solid web development solutions in Go, Rust, Python, HTMX and more.
+
+You can take a look at my resume [here](https://angelo.fallaria.com/resume.pdf). If you're interested, please contact me at [ba.fallaria@gmail.com](mailto:ba.fallaria@gmail.com).
 
 #### 👋 About me
 
-Hi! I'm Angelo, a 22-year-old software engineer and open-source developer. I code on Linux (using Neovim btw).
+Hi! I'm Angelo, a 22-year-old software engineer and open-source maintainer. I code on Linux (using Neovim btw).
 
-I'm passionate about Go, Rust, and HTMX. I'm the creator of the [htmx-go](https://github.com/angelofallars/htmx-go) library with 400+ stars.
+I'm enthusiastic about both Go and Rust. You can be a fan of both languages!
 
-I'm interested in compilers and programming language design. I've worked on an embeddable scripting language named [litok](https://git.sr.ht/~kolunmi/litok/tree/rust-version/item/README.md) implemented in Rust. 
+I'm the creator of the [htmx-go](https://github.com/angelofallars/htmx-go) library with 700+ stars.
 
 ![](./dancing-gopher.gif)
 
