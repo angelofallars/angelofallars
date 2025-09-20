@@ -11,8 +11,6 @@ I am a:
 I'm available for hiring remotely.
 I can leverage my 2+ years of professional experience to build solid web development solutions in Go, Rust, Python, HTMX and more.
 
-You can take a look at my resume [here](https://angelo.fallaria.com/resume.pdf). If you're interested, please contact me at `ba.fallaria <at> gmail.com`.
-
 #### 👋 About me
 
 Hi! I'm Angelo, a 22-year-old software engineer and open-source maintainer. I code on Linux (using Neovim btw).
