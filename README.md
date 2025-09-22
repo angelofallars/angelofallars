@@ -1,13 +1,13 @@
 ## 💚 Angelo Fallaria
 
+<img align="right" src="https://raw.githubusercontent.com/angelofallars/angelofallars/refs/heads/main/dancing-gopher.gif">
+
 I am a:
 
 * 🇵🇭 Maintainer @ [BetterGov.ph](https://bettergov.ph/)
 * 🛰️ Maintainer @ [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines)
   * Notable contributions: [Plasmaman species](https://github.com/Simple-Station/Einstein-Engines/pull/1291)
 * 🔵 Staff @ [Open Source Software PH](https://ossph.org/)
-
-<img align="right" src="https://raw.githubusercontent.com/angelofallars/angelofallars/refs/heads/main/dancing-gopher.gif">
 
 ### 👋 Hiya!
 
@@ -17,6 +17,9 @@ I am passionate about open-source software and its ability to bring about positi
 
 I've been active in the open-source space for 4 years and counting. I've participated across all kinds of open-source projects: Linux distributions, web libraries, programming languages, and even video games!
 
+<img align="right"
+  src="https://github-readme-stats.vercel.app/api?theme=catppuccin_mocha&username=angelofallars&hide=prs,issues,contribs&show=prs_merged,reviews&show_icons=true&rank_icon=percentile&hide_rank=true&include_all_commits=true&disable_animations=false">
+
 ### 🔍 Interests
 
 - Linux
@@ -25,9 +28,6 @@ I've been active in the open-source space for 4 years and counting. I've partici
 - Proton gaming on Linux
 
 ### 💼 Open to work
-
-<img align="right"
-  src="https://github-readme-stats.vercel.app/api?theme=onedark&username=angelofallars&hide=prs,issues,contribs&show=prs_merged,reviews&show_icons=true&rank_icon=percentile&card_width=450px&include_all_commits=true">
 
 I'm available for remote opportunities!
 I can leverage my 2+ years of professional experience to build scalable cloud applications in Go, Python, Rust, and more.
