@@ -1,6 +1,6 @@
 ## 💚 Angelo Fallaria
 
-<img align="right" src="https://raw.githubusercontent.com/angelofallars/angelofallars/refs/heads/main/dancing-gopher.gif">
+<img width=160px align="right" src="https://raw.githubusercontent.com/angelofallars/angelofallars/refs/heads/main/dancing-gopher.gif">
 
 I am a:
 
