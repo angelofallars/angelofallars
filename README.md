@@ -18,7 +18,7 @@ I am passionate about open-source software and its ability to bring about positi
 I've been active in the open-source space for 4 years and counting. I've participated across all kinds of open-source projects: Linux distributions, web libraries, programming languages, and even video games!
 
 <img align="right"
-  src="https://github-readme-stats.vercel.app/api?theme=catppuccin_mocha&username=angelofallars&hide=prs,issues,contribs&show=prs_merged,reviews&show_icons=true&rank_icon=percentile&hide_rank=true&include_all_commits=true&disable_animations=false">
+  src="https://github-readme-stats.vercel.app/api?theme=catppuccin_mocha&border_color=45475a&custom_title=Angelo's+GitHub+Numbers&username=angelofallars&hide=prs,issues,contribs&show=prs_merged,reviews&show_icons=true&rank_icon=percentile&hide_rank=true&include_all_commits=true&disable_animations=false">
 
 ### 🔍 Interests
 
