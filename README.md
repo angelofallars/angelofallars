@@ -1,33 +1,48 @@
-### 🍀 Angelo Fallaria
+## 💚 Angelo Fallaria
 
 I am a:
 
-* 🧪 Maintainer @ [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines)
+* 🇵🇭 Maintainer @ [BetterGov.ph](https://bettergov.ph/)
+* 🛰️ Maintainer @ [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines)
   * Notable contributions: [Plasmaman species](https://github.com/Simple-Station/Einstein-Engines/pull/1291)
-* 📝 Technical Writer @ [OSSPH](https://ossph.org/)
+* 🔵 Staff @ [Open Source Software PH](https://ossph.org/)
 
-#### 💼 Open to work
+<img align="right" src="https://raw.githubusercontent.com/angelofallars/angelofallars/refs/heads/main/dancing-gopher.gif">
 
-I'm available for hiring remotely.
-I can leverage my 2+ years of professional experience to build solid web development solutions in Go, Rust, Python, HTMX and more.
+### 👋 Hiya!
 
-#### 👋 About me
+I'm Angelo, a 22-year-old software engineer and open-source maintainer.
 
-Hi! I'm Angelo, a 22-year-old software engineer and open-source maintainer. I code on Linux (using Neovim btw).
+I am passionate about open-source software and its ability to bring about positive change to the digital world.
 
-I'm a fan of Go and Rust. You can like both languages!
+I've been active in the open-source space for 4 years and counting. I've participated across all kinds of open-source projects: Linux distributions, web libraries, programming languages, and even video games!
 
-I'm the creator of the [htmx-go](https://github.com/angelofallars/htmx-go) library with 700+ stars.
+### 🔍 Interests
 
-#### 📬 Contact me
+- Linux
+- Neovim (and tmux)
+- Backend development
+- Proton gaming on Linux
+
+### 💼 Open to work
+
+I'm available for remote opportunities!
+I can leverage my 2+ years of professional experience to build scalable cloud applications in Go, Python, Rust, and more.
+
+If you'd like to know more about my accomplishments, feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/angelofallaria/) profile.
+If you're interested, I can provide my resume through my email account. Let's connect!
+
+### 📬 Contact me
 
 - Email: `ba.fallaria <at> gmail.com`
 - Discord: `angelo.codes`
 
-![](./dancing-gopher.gif)
+### 🥾 Boot.dev stats
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/772ab8ba-bb97-4350-a5a8-182d9443e617/thumbnail" width=450px>
+  <a href="https://www.boot.dev/u/angelothegopher" target="_blank">
+    <img src="https://api.boot.dev/v1/users/public/772ab8ba-bb97-4350-a5a8-182d9443e617/thumbnail" alt="Boot.dev progress" width=450px>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=angelofallars&color=45707a&style=flat-square" alt="GitHub page views">
+<img src="https://komarev.com/ghpvc/?username=angelofallars&color=8839ef&style=flat-square" alt="GitHub page views">
