@@ -5,7 +5,7 @@
 I am a:
 
 * 🇵🇭 Maintainer @ [BetterGov.ph](https://bettergov.ph/)
-* 🛰️ Maintainer @ [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines)
+* 🛰️ Maintainer @ [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines), a Space Station 14 fork
   * Notable contributions: [Plasmaman species](https://github.com/Simple-Station/Einstein-Engines/pull/1291)
 * 🔵 Staff @ [Open Source Software PH](https://ossph.org/)
 
