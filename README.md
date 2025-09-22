@@ -1,4 +1,4 @@
-c## 💚 Angelo Fallaria
+## 💚 Angelo Fallaria
 
 I am a:
 
@@ -26,6 +26,9 @@ I've been active in the open-source space for 4 years and counting. I've partici
 
 ### 💼 Open to work
 
+<img align="right"
+  src="https://github-readme-stats.vercel.app/api?theme=onedark&username=angelofallars&hide=prs,issues,contribs&show=prs_merged,reviews&show_icons=true&rank_icon=percentile&card_width=450px&include_all_commits=true">
+
 I'm available for remote opportunities!
 I can leverage my 2+ years of professional experience to build scalable cloud applications in Go, Python, Rust, and more.
 
@@ -44,5 +47,6 @@ I can also provide my resume through email. Let's connect!
     <img src="https://api.boot.dev/v1/users/public/772ab8ba-bb97-4350-a5a8-182d9443e617/thumbnail" alt="Boot.dev progress" width="380px">
   </a>
 </p>
+
 
 <img src="https://komarev.com/ghpvc/?username=angelofallars&color=8839ef&style=flat-square" alt="GitHub page views">
