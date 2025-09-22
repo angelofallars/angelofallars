@@ -30,12 +30,12 @@ I'm available for remote opportunities!
 I can leverage my 2+ years of professional experience to build scalable cloud applications in Go, Python, Rust, and more.
 
 If you'd like to know more about my accomplishments, feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/angelofallaria/) profile.
-If you're interested, I can provide my resume through my email account. Let's connect!
+I can also provide my resume through email. Let's connect!
 
 ### 📬 Contact me
 
-- Email: `ba.fallaria <at> gmail.com`
-- Discord: `angelo.codes`
+- ✉️ Email: `ba.fallaria@gmail.com`
+- 💬 Discord: `angelo.codes`
 
 ### 🥾 Boot.dev stats
 
