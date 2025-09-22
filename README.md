@@ -44,7 +44,7 @@ I can also provide my resume through email. Let's connect!
 
 <p align="left">
   <a href="https://www.boot.dev/u/angelothegopher" target="_blank">
-    <img src="https://api.boot.dev/v1/users/public/772ab8ba-bb97-4350-a5a8-182d9443e617/thumbnail" alt="Boot.dev progress" width="380px">
+    <img src="https://api.boot.dev/v1/users/public/772ab8ba-bb97-4350-a5a8-182d9443e617/thumbnail" alt="Boot.dev progress" width="340px">
   </a>
 </p>
 
